@@ -1,8 +1,11 @@
 # Gojek University App
 
-blindchat
-schdule
+blind chat
+
+schedule
+
 resources
+
 credit
 
 
