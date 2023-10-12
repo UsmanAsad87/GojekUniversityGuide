@@ -1,6 +1,6 @@
 # Gojek University App
 
-blind chat
+blind chat- where users randomly matches for 3 min chat
 
 schedule
 
