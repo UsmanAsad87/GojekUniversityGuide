@@ -1,4 +1,5 @@
 # Gojek University App
+for backend firebase is used.
 
 blind chat- where users randomly match for 3 min chat
 
